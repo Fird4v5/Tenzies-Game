@@ -1,55 +1,52 @@
-🎲 Tenzies Game
+# 🎲 Tenzies Game  
 
-A fun and addictive dice game where the goal is simple: roll until all dice match. Pick a number, freeze your lucky dice, and keep rolling until every die lines up. Win the game and celebrate with confetti! 🎉
+A fun and addictive dice game where the goal is simple: roll until all dice match. Pick a number, freeze your lucky dice, and keep rolling until every die lines up. Win the game and celebrate with confetti! 🎉  
 
-🚀 Features
+---
 
-Roll 10 dice at once
+## 🚀 Features  
+- Roll 10 dice at once  
+- Click to freeze/unfreeze dice  
+- Keep rolling until all numbers match  
+- Smooth design & user-friendly interface  
+- Confetti celebration on victory  
 
-Click to freeze/unfreeze dice
+---
 
-Keep rolling until all numbers match
+## 📸 Preview  
+<img width="2560" height="1600" alt="tenziesgamef netlify app_(Nest Hub Max)-min" src="https://github.com/user-attachments/assets/d78f2ed6-5e86-4d4f-9647-9ebd75bcc66a" />
+ 
 
-Smooth design & user-friendly interface
+---
 
-Confetti celebration on victory
+## 🛠️ Tech Stack  
+- React  
+- React Confetti  
 
-📸 Preview
+---
 
-<img width="2560" height="1600" alt="tenziesgamef netlify app_(Nest Hub Max)-min" src="https://github.com/user-attachments/assets/8b542dd2-8ddd-4d95-a531-f1b2444136e4" />
+## 🌐 Live Demo  
+👉 [firdavs.codes](https://firdavs.codes)  
 
-🛠️ Tech Stack
+---
 
-React
+## 📦 Installation  
 
-React Confetti
-
-🌐 Live Demo
-
-👉 firdavs.codes
-
-📦 Installation
-
-Clone the repository
-
+```bash
+# Clone the repository
 git clone https://github.com/yourusername/tenzies-game.git
 
-
-Navigate to the project folder
-
+# Navigate to the project folder
 cd tenzies-game
 
-
-Install dependencies
-
+# Install dependencies
 npm install
 
-
-Start the development server
-
+# Start the development server
 npm start
 
-🎮 How to Play
+
+**## 🎮 How to Play**
 
 Roll all dice.
 
@@ -59,7 +56,7 @@ Keep rolling until all dice show the same number.
 
 Victory = 🎉 + confetti!
 
-📜 License
+## **📜 License**
 
 This project is open-source and available under the MIT License.
 
