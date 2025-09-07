@@ -14,7 +14,8 @@ A fun and addictive dice game where the goal is simple: roll until all dice matc
 ---
 
 ## 📸 Preview  
-<img width="2560" height="1600" alt="tenziesgamef netlify app_(Nest Hub Max)-min" src="https://github.com/user-attachments/assets/d78f2ed6-5e86-4d4f-9647-9ebd75bcc66a" />
+<img width="2000" height="1400" alt="tenzies firdavs codes_(Nest Hub Max)-min" src="https://github.com/user-attachments/assets/76d9be0f-9bf0-43d6-9fde-128a3de7f2b1" />
+
  
 
 ---
