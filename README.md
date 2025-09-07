@@ -43,7 +43,8 @@ cd tenzies-game
 npm install
 
 # Start the development server
-npm start
+npm start```
+
 
 ---
 
