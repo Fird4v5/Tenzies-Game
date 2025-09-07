@@ -27,7 +27,7 @@ A fun and addictive dice game where the goal is simple: roll until all dice matc
 ---
 
 ## 🌐 Live Demo  
-👉 [firdavs.codes](https://firdavs.codes)  
+👉 [tenzies.firdavs.codes](https://tenzies.firdavs.codes)  
 
 ---
 
